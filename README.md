@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaishnavighiradkar
-- 👀 I’m a CSE Sophomore @IIITDMJ
+- 👀 I’m a CSE final-year student @IIITDMJ
 - 🌱 I’m interested in Web development and competitive programming 
 
 <!---
